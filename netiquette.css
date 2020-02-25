@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+p{
+	color: #FFAE00;
+}
+h1{
+	font-style: italic;
+	border: thick solid #FF9F00;
+	padding: 10px;
+	color: #FFAE00;
+	text-align: center;
+}
+h2{
+	font-style: italic;
+	color: #FFAE00;
+	font-weight: 100;
+	font-size: auto;
+}
+#float{
+	font-style: oblique;
+	color: #FFAE00;
+	float: right;
+	border: thick dotted;
+	width: 450px;
+	text-align: center;
+	clear: none
+}
+body{
+	background: #000000;
+}
+#all{
+	width: 900px;
+	margin: auto;
+}
