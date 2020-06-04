@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+p{
+	color: tomato;
+	font-size: 20px
+}
+h1{
+	font-style: italic;
+	border: thick solid red;
+	padding: 10px;
+	color: tomato;
+	text-align: center;
+}
+h2{
+	font-style: italic;
+	color: red;
+	font-weight: 100;
+}
+body{
+	background: skyblue;
+}
+#all{
+	width: 900px;
+	margin: auto;
+}
+#hunt{
+  font-style: italic; 
+	border: thick solid blue;
+	padding: 10px;
+	color: tomato;
+	text-align: center;
+}
+a:link{
+	color: darkblue
+}
+a:hover{
+	color: tomato
+}
+a:active{
+	color: crimson
+}
