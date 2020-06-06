@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<link href="2020spring21.github.io/tour.css" type="text/css" rel="stylesheet">
+<meta charset="UTF-8">
+<title>The History of DOOM Games</title>
+<div class="pageup">
+  <a href="https://2020spring21.github.io/tour1.html">Home</a>
+  <a href="https://2020spring21.github.io/tour2.html">DOOM</a>
+  <a href="https://2020spring21.github.io/tour3.html">DOOM 64</a>
+  <a href="https://2020spring21.github.io/tour4.html">DOOM 2016</a>
+  <a href="https://2020spring21.github.io/tour5.html">DOOM Eternal</a>
+</div>
+</head>
+<body>
+<div id="all">
+  <h1>DOOM 2016</h1>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Cover_Art_of_Doom_Eternal.png/220px-Cover_Art_of_Doom_Eternal.png">
+  <h2> Doom Eternal is the newest edition to the Doom franchise. Doom Eternal sold 3 million copies on release. The story and soundtrack were extremely well done, and thats one of the main reasons the game is so popular. This game is many old fans favorites out of the whole franchise, because of how well it was made.</h2>
+  <footer> <a href="https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2F2020spring21.github.io%2Fwebaccesaablity.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en"><img src="https://raw.githubusercontent.com/2020spring21/2020spring21.github.io/master/valid_html6_blue.png" width="80" height="15" alt="CSS Validation Badge"/></a> <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2F2020spring21.github.io%2Fwebaccesability.html"><img src="https://2020spring21.github.io/valid_html5_blue.png" width="80" height="15" alt="HTML Validation Badge"/></a> &copy;2020 21 </footer>
+</div>
+</body>
+</html>
