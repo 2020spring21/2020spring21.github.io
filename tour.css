@@ -1,0 +1,56 @@
+@charset "UTF-8";
+/* CSS Document */
+p{
+	color: tomato;
+	font-size: 20px
+}
+h1{
+	font-style: italic;
+	border: thick solid red;
+	padding: 10px;
+	color: tomato;
+	text-align: center;
+}
+h2{
+	font-style: italic;
+	color: red;
+	font-weight: 100;
+}
+body{
+	background: skyblue;
+}
+#all{
+	width: 900px;
+	margin: auto;
+}
+a:link{
+	color: darkblue
+}
+a:hover{
+	color: tomato
+}
+a:active{
+	color: crimson
+}
+.pageup {
+  background-color: orange;
+  overflow: hidden;
+}
+
+.pageup a {
+  float: left;
+  color: red;
+  text-align: center;
+  padding: 10px 12px;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.pageup a:hover {
+  background-color: blue;
+  color: black;
+}
+
+.pageup a.active {
+  background-color: #4CAF50;
+  color: white;
